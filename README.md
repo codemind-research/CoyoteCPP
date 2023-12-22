@@ -27,9 +27,9 @@ sudo apt-get install -y dotnet-sdk-6.0
 # Download
 The program for each operating system can be downloaded from the following addresses. Please note that these files are only compatible with AMD64. 
 
-- Ubuntu 20.04: [Download](https://coyotemanager.blob.core.windows.net/coyote/COYOTE_4.6.1_ubuntu20.snap) [SHA-256: 222a8a0751a7e6d9af97e8a6f7a90c42861c52327bb87f03a1f291829dea05e7]
+- Ubuntu 20.04: [Download](https://coyotemanager.blob.core.windows.net/coyote/COYOTE_4.6.1_ubuntu20.snap) [SHA-256: 532f9afe298322e28235499d3b8e3266df93288c229e53f162c1bdf9b7300a97]
 
-- Ubuntu 22.04: [Download](https://coyotemanager.blob.core.windows.net/coyote/COYOTE_4.6.1_ubuntu22.snap) [SHA-256: d92f834823f2f825e62f4a71d1b5fdc24eb48e8d1acc75fc20f2bd19dc307c74]
+- Ubuntu 22.04: [Download](https://coyotemanager.blob.core.windows.net/coyote/COYOTE_4.6.1_ubuntu22.snap) [SHA-256: 1ff17de17d2a413d5c4324d1e9608468166ccb74d4a090eaf1a8119e2d458f67]
 
 # How to install
 **Coyote C++** downloaded snap package via the provided link addresses can be installed using the following command. 
